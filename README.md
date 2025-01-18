@@ -1,5 +1,6 @@
 # WindowsServer
 This repository contains all the details and configurations of the Windows Server Project, which aims to establish a robust and functional IT infrastructure. Below is a summary of the project and its key components.
+![windowsServer drawio](https://github.com/user-attachments/assets/d3a6c0e4-d950-43d3-bdb4-0662842e7de2)
 
 ## Project Overview
 The Windows Server Project was designed to create a scalable and secure IT environment using Windows Server roles and functionalities. It features DNS, Web, FTP services, Active Directory, and policies to manage users and devices across multiple branches.
